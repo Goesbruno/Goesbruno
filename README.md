@@ -1,6 +1,6 @@
 ### Oi, eu sou o Bruno! 👋
 
-- 🌱 Eu estou estudando Kotlin
+- 🌱 Eu estou estudando Kotlin e aplicações Android
 - 👯 Estou buscando uma vaga de estágio
 - 📫 Contate-me no meu Linkedin: https://www.linkedin.com/in/brunogmf/ ou no meu e-mail: goesbruno1@hotmail.com
 - ⚡ Fato sobre mim: Sou apaixonado por música e adoraria criar projetos relacionados
